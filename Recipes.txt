@@ -4,4 +4,7 @@ Pizza
 Pasta
 Chicken
 
+BEANS
+RICE
+
 Thank you
